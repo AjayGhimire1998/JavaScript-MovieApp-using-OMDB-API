@@ -25,19 +25,19 @@ The users can search for a movie with its title name and get all information abo
 
 ## Features
 
-1. **Sign Up:** Signup with your email to register and login for personalised experience.
-![Login](./login.png)
+1. **Search Movie:** Search for a movie or a tv sow with its title.
+![Search](./search.png)
 
-2. **Creaate Goals:** Create a major goal that you want to accomplish.
-![Goal](./goal.png)
+2. **View Details:** View information about the selected movie or show. 
+![View](./view.png)
 
-3. **Create Tasks:** Create sub goals or tasks to assign to goals.
-![Task](./task.png)
+3. **Watch Trailer:** Watch trailer of the selected movie or show from youtube.
+![Trailer](./trailer.png)
 
-4. **Toggle Tasks:** Toggle between pending and completed for the tasks.
-![Toggle](./toggle.png)
+4. **Like:** Like the selected movie or show to save in the liked list.
+![Like](./like.png)
 
-5. **Add tasks later and delete:** Add tasks later on the go, and delete the whole goal once accomplished.
+5. **View Liked List:** Add tasks later on the go, and delete the whole goal once accomplished.
 ![Add](./add.png)
 
 
@@ -60,7 +60,7 @@ The users can search for a movie with its title name and get all information abo
 
 2. **Install Dependencies:**
    ```bash
-   cd memebook
+   cd goals-to-score
    npm install
    
 
@@ -69,7 +69,7 @@ The users can search for a movie with its title name and get all information abo
    npm start
 
    
-5. **Access MemeBook:**
+5. **Access GoalsToScore:**
    Open your browser and navigate to http://localhost:3000 to use GoalsToScore locally.
 
 
