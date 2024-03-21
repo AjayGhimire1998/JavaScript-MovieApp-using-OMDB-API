@@ -64,10 +64,6 @@ The users can search for a movie with its title name and get all information abo
    Open Live Server on index.html
 
    
-3. **Access Movie-Finder:**
-   Open your browser and navigate to http://localhost:3000 to use Movie-Finder locally.
-
-
 ## Contributing
 
 I welcome contributions to make Movie-Finder even more intuitive and user-friendly. Feel free to submit issues, feature requests, or pull requests.
