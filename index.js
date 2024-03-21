@@ -9,6 +9,7 @@
 //8. implement pop-up modal ✅✅
 //9. fetch the movie info ✅✅
 //9. implement watch trailer button for each movie in the pop up✅✅
+//10. new commit
 
 
 //refreshing the page on header click
