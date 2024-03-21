@@ -61,10 +61,10 @@ The users can search for a movie with its title name and get all information abo
 
 2. **Run the App:**
    ```bash
-  Live Server
+   Live Server
 
    
-3. **Access GoalsToScore:**
+3. **Access Movie-Finder:**
    Open your browser and navigate to http://localhost:3000 to use Movie-Finder locally.
 
 
