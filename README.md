@@ -37,17 +37,17 @@ The users can search for a movie with its title name and get all information abo
 4. **Like:** Like the selected movie or show to save in the liked list.
 ![Like](./like.png)
 
-5. **View Liked List:** Add tasks later on the go, and delete the whole goal once accomplished.
-![Add](./add.png)
+5. **View Liked List:** View a list of liked movies and shows.
+![Liked](./liked.png)
 
 
 ## Technologies Used
 
-- **React.js:** The front-end is built using React.js, providing a dynamic and responsive user interface.
+- **Vanilla JS:** The front-end is built using plain Vanilla JavaScript, HTML and CSS providing a dynamic and responsive user interface.
 
-- **Node.js:** Express.js and MongoDb is used for authentication and storage, ensuring a secure and scalable solution.
+- **OMDb API:** Movies and Shows data are fetched from OMDb API, an open movie database.
 
-- **React Hooks and Contexts:** State management in GoalsToScore is handled efficiently with React Hooks and Contexts, providing a seamless user experience.
+- **YouTube API:** Trailer of the selected movie or show is fetched to see by using YouTube API.
 
 
 
@@ -55,27 +55,22 @@ The users can search for a movie with its title name and get all information abo
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/AjayGhimire1998/goals-to-score.git
-
-
-2. **Install Dependencies:**
-   ```bash
-   cd goals-to-score
-   npm install
-   
-
-4. **Run the App:**
-   ```bash
-   npm start
+   git clone https://github.com/AjayGhimire1998/Movie-Finder.git
 
    
-5. **Access GoalsToScore:**
-   Open your browser and navigate to http://localhost:3000 to use GoalsToScore locally.
+
+2. **Run the App:**
+   ```bash
+  Live Server
+
+   
+3. **Access GoalsToScore:**
+   Open your browser and navigate to http://localhost:3000 to use Movie-Finder locally.
 
 
 ## Contributing
 
-I welcome contributions to make GoalsToScore even more entertaining and user-friendly. Feel free to submit issues, feature requests, or pull requests.
+I welcome contributions to make Movie-Finder even more intuitive and user-friendly. Feel free to submit issues, feature requests, or pull requests.
 
 ## License
 
@@ -83,9 +78,9 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-Thanks to the developers of React.js, Redux.js, Express.js, MongoDB, for providing valuable content and tools.
+Thanks to the developers of OMDb API and YouTube API for providing valuable contents and tools.
 
 
-# Enjoy GoalsToScore and happy-productivity! 🎉
+# Enjoy Movie-Finder and happy-movie-hunting! 🎉
 
 
