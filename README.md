@@ -25,7 +25,7 @@ The users can search for a movie with its title name and get all information abo
 
 ## Features
 
-1. **Search Movie:** Search for a movie or a tv sow with its title.
+1. **Search Movie:** Search for a movie or a tv show with its title.
 ![Search](./search.png)
 
 2. **View Details:** View information about the selected movie or show. 

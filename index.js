@@ -92,7 +92,7 @@ document.addEventListener('click', event => {
     }
     if(target.id === 'show-list'){
         const addedList = document.querySelector('.list');
-        addedList.classList.add('list-display');
+        addedList.classList.toggle('list-display');
     }
     if(target.id === 'remove-liked'){
         document.querySelector('.title-and-image').remove();
