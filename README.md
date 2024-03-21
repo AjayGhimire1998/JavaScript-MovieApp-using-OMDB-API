@@ -61,7 +61,7 @@ The users can search for a movie with its title name and get all information abo
 
 2. **Run the App:**
    ```bash
-   Live Server
+   Open Live Server on index.html
 
    
 3. **Access Movie-Finder:**
