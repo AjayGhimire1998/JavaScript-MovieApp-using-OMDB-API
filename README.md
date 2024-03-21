@@ -12,10 +12,15 @@ The users can search for a movie with its title name and get all information abo
 
 <br>
 <br>
-[!Live Demo](https://youtu.be/L78bUwIzYYo)
+
+[Live Demo](https://youtu.be/L78bUwIzYYo)
+
 <br>
 <br>
-[![Live Demo](./demo.png)](https://youtu.be/L78bUwIzYYo "Movie-Finder")
+
+[![Live Demo](./demo.png)](https://youtu.be/L78bUwIzYYo 
+"Movie-Finder")
+
 
 
 ## Features
